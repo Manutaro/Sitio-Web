@@ -1,1 +1,1 @@
-alert ("Hola");
+    alert("funciona el script")
